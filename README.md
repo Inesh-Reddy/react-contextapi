@@ -16,3 +16,7 @@
         `So we need a better state management :  Recoil`
 
 
+- why you use ContextAPI ?
+
+    - `Not` to get rid of r`erenders`.
+    - `To get rid of prop drilling` and to make `syntax` looks `cleaner`.
