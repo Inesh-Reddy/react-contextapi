@@ -13,7 +13,7 @@
 
      * When ever the `CountContext` changes.. only the components that uses must change re-render. But, in case of ContextAPI it is not happening.
 
-        `So we need a better state management :  Recoil`
+        `So we need a better state management :  Recoil {State management library}`
 
 
 - why you use ContextAPI ?
