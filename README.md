@@ -11,5 +11,8 @@
 
 - What are the downsides of ContextAPI and what are the things it cannot fix ?
 
+     * When ever the `CountContext` changes.. only the components that uses must change re-render. But, in case of ContextAPI it is not happening.
+
+        `So we need a better state management :  Recoil`
 
 
