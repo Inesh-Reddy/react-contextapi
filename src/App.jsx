@@ -47,5 +47,4 @@ function Buttons({setCount}){
     } >Decrease</button>
   </div>
 }
-
 export default App
